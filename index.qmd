@@ -1,0 +1,11 @@
+---
+title: "Inglese Facile"
+format:
+  html: default
+---
+
+# Benvenuto!
+
+Questo è il mio sito per studiare inglese, con frasi tipiche, grammatica, vocabolario e grafici.
+
+Naviga dalle voci in alto per esplorare i contenuti!
