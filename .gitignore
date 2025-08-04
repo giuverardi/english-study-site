@@ -1,0 +1,37 @@
+# Output del sito Quarto
+_site/
+
+# Output di Quarto PDF, Word, ecc.
+*.pdf
+*.docx
+*.epub
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+.env
+.venv
+env/
+venv/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# VS Code
+.vscode/
+
+# Mac OS / Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log/temporanei
+*.log
+*.tmp
